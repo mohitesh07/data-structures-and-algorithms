@@ -1,4 +1,4 @@
-![dsa Logo](dsa_logo.jpeg)
+![dsa Logo](dsa_logo.jpg)
 
 # Data-Structures-and-Algorithms(DSA)
 
