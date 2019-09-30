@@ -9,7 +9,7 @@
 
 This repository has all the practice codes of Data Structures and Algorithms done by me. Language of choice is C++.
 
-Current development stage --> Tree
+Current development stage --> Tree, Bitmasking
 
 ```
 g++ (GCC) 8.2.0
